@@ -1,0 +1,14 @@
+D:\Programozás\11F\teheneszet\tehenészet\bin\Debug\tehenészet.exe.config
+D:\Programozás\11F\teheneszet\tehenészet\bin\Debug\tehenészet.exe
+D:\Programozás\11F\teheneszet\tehenészet\bin\Debug\tehenészet.pdb
+D:\Programozás\11F\teheneszet\tehenészet\obj\Debug\tehenészet.csproj.AssemblyReference.cache
+D:\Programozás\11F\teheneszet\tehenészet\obj\Debug\tehenészet.csproj.CoreCompileInputs.cache
+D:\Programozás\11F\teheneszet\tehenészet\obj\Debug\tehenészet.exe
+D:\Programozás\11F\teheneszet\tehenészet\obj\Debug\tehenészet.pdb
+D:\Programozás\11F\Tehenesztek\tehenészet\bin\Debug\tehenészet.exe.config
+D:\Programozás\11F\Tehenesztek\tehenészet\bin\Debug\tehenészet.exe
+D:\Programozás\11F\Tehenesztek\tehenészet\bin\Debug\tehenészet.pdb
+D:\Programozás\11F\Tehenesztek\tehenészet\obj\Debug\tehenészet.csproj.AssemblyReference.cache
+D:\Programozás\11F\Tehenesztek\tehenészet\obj\Debug\tehenészet.csproj.CoreCompileInputs.cache
+D:\Programozás\11F\Tehenesztek\tehenészet\obj\Debug\tehenészet.exe
+D:\Programozás\11F\Tehenesztek\tehenészet\obj\Debug\tehenészet.pdb
